@@ -36,7 +36,7 @@ body{
     padding-right: 15px;
 }
 #showcase{
-    background-image:url('../IMAGES/backgroungimg.png');
+    background-image:url('backgroungimg.png');
     background-position: center right;
     height: 300px;
     margin-bottom: 30px;
